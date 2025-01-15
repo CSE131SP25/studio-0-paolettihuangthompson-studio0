@@ -6,3 +6,4 @@ public class Message {
 		System.out.println("Hello yall");
 	}   
 }
+
